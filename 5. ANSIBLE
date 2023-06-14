@@ -25,7 +25,7 @@ vim /etc/ansible/hosts
 172.31.95.156
 172.31.83.100
 
-vim /etc/asnible/ansible.cfg (uncomment 14 & 22)
+vim /etc/ansible/ansible.cfg (uncomment 14 & 22)
 
 =========================================================
 SHH CONNECTIONS: ANSIBLE SERVER
